@@ -4,7 +4,7 @@ Use R and statistics in order to analyze vehicle data
 ## Linear Regression to Predict MPG
 - The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset were vehicle_length, vehicle_weight, and ground_clearance.
 - The slope of the linear model is not considered to be zero due to the p-value of 5.35e-11, which is much smaller than our assumed significance level.
-- Due to our R-squared value being 0.7149, our predictions will correct using this linear model about 71% of the time.
+- Due to our R-squared value being 0.7149, our predictions will be correct using this linear model about 71% of the time.
 
 ![F3F48D50-5CC5-4AFE-992D-4AA425E106F6](https://user-images.githubusercontent.com/92240407/161490233-3f1b2a36-1bf0-4179-94a7-cf25d410f421.jpeg)
 ## Summary Statistics on Suspension Coils
